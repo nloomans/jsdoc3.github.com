@@ -50,7 +50,7 @@
         {{ tocItems(metadata.tocData.contribute) }}
     </dl>
 
-    <p>
+    <div class="github-ribbon-container">
         <a href="https://github.com/jsdoc3/jsdoc" class="github-ribbon">Fork me on GitHub</a>
-    </p>
+    </div>
 {% endblock %}
